@@ -1,0 +1,4 @@
+#Sat Apr 02 04:53:41 NPT 2022
+base.0=C\:\\Users\\subed\\AndroidStudioProjects\\android-fundamentals-apps-v2-master\\TwoActivities\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
